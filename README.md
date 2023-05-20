@@ -56,4 +56,4 @@ If you have any questions, suggestions, or concerns, please open an issue on thi
 Let's make the Open Source Design Taiwan workshop a vibrant hub of artistic collaboration. We look forward to seeing your incredible contributions!
 Stay connect with us on [Facebook Group](https://www.facebook.com/groups/2495434990745588) or [Discord](https://discord.gg/9QvpVnTJY7).
 
-**Note**: By participating in this repository, you agree to abide by the [code of conduct]([CODE_OF_CONDUCT.md](https://sites.google.com/gdg-taipei.org/wtm-gdg-tw-code-of-conduct/home)). Please familiarize yourself with it to ensure a safe and inclusive experience for everyone involved.
+**Note**: By participating in this repository, you agree to abide by the [code of conduct](https://sites.google.com/gdg-taipei.org/wtm-gdg-tw-code-of-conduct/home). Please familiarize yourself with it to ensure a safe and inclusive experience for everyone involved.
